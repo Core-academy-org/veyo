@@ -1,0 +1,6 @@
+{
+  "name": "VEYO",
+  "description": "Smart Geolocation & Active Social Safety Network for families and teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
